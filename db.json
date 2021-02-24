@@ -1,5 +1,7 @@
 {
-    "version" : "1.2.5",
-    "platform" : "hxphone",
-    "customer_type" : "abc",
+    "version": {
+        "version" : "1.2.5",
+        "platform" : "hxphone",
+        "customer_type" : "abc",
+    }
 }
